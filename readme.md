@@ -25,7 +25,7 @@ Opacity Controller is a Python application that allows you to control the opacit
 
 2. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/opacity-controller.git
+    git clone https://github.com/vairagi-tech/opacity-controller.git
     cd opacity-controller
     ```
 
